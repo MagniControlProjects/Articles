@@ -1,2 +1,2 @@
 # Articles
-Article code
+repository for storing code use in MCP Articles.
